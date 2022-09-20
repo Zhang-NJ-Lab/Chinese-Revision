@@ -26,5 +26,5 @@ WF-CNKI.txt  其实的摘要库
 
 百度云：
 
-链接：(https://pan.baidu.com/s/1sNjZYRPUF5Or_5Z_hMD7Qg)
+链接：https://pan.baidu.com/s/1sNjZYRPUF5Or_5Z_hMD7Qg
 提取码：1111 
