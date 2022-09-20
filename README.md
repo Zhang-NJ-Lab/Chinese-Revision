@@ -16,13 +16,13 @@
                  sentence += wordd
 '''
 
-# 大的文件请从百度云下载
+## 大的文件请从百度云下载
 
-word2vec0828b.bin   word2vec模型
+### word2vec0828b.bin   word2vec模型
 
-WF-CNKI.txt  其实的摘要库
+### WF-CNKI.txt  其实的摘要库
 
-0828.txt 分词后的文件
+### 0828.txt 分词后的文件
 
 百度云：
 
