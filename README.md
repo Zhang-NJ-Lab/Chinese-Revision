@@ -4,10 +4,17 @@
 
 # python文件
 
-Chinese.ipynb   建模
+*Chinese.ipynb   建模*
 
-loginLabel.font = [UIFont fontWithName:@"Helvetica-Bold" size:20];  VisualizeStartingDatabase.ipynb  最主要python文件： 摘要（分词前后）数据集可视化和统计
+***VisualizeStartingDatabase.ipynb  最主要python文件： 摘要（分词前后）数据集可视化和统计***
 
+'''
+#     result = ' '.join(text)
+#     for word in result:
+#         if word not in stopwords:
+#             if word != "\t":
+#                 sentence += wordd
+'''
 
 # 大的文件请从百度云下载
 
@@ -19,5 +26,5 @@ WF-CNKI.txt  其实的摘要库
 
 百度云：
 
-链接：https://pan.baidu.com/s/1sNjZYRPUF5Or_5Z_hMD7Qg 
+链接：(https://pan.baidu.com/s/1sNjZYRPUF5Or_5Z_hMD7Qg)
 提取码：1111 
