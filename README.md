@@ -9,11 +9,11 @@
 ***VisualizeStartingDatabase.ipynb  最主要python文件： 摘要（分词前后）数据集可视化和统计***
 
 '''
-#     result = ' '.join(text)
-#     for word in result:
-#         if word not in stopwords:
-#             if word != "\t":
-#                 sentence += wordd
+     result = ' '.join(text)
+     for word in result:
+         if word not in stopwords:
+             if word != "\t":
+                 sentence += wordd
 '''
 
 # 大的文件请从百度云下载
