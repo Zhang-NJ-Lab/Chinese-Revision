@@ -2,6 +2,12 @@
 中文文章修改稿，分词语料库统计，词频
 
 
+#python文件
+Chinese.ipynb   建模
+
+VisualizeStartingDatabase.ipynb  最主要python文件： 摘要（分词前后）数据集可视化和统计
+
+
 #大的文件请从百度云下载
 
 word2vec0828b.bin   word2vec模型
